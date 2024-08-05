@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navheight{
+    height: 100px;
+}
+.abc{
+    border: 3px solid red;
+}
+.col-9{
+    display: flex;
+    justify-content:start;
+}
+.col-2{
+    width: 150px;
+    height: 40px;
+    margin-top: 26px;
+    
+}
+.col-2 a{
+    text-align: center;
+    padding-left: 5px;
+    color: red;
+    padding-right: 10px;
+    padding-top: 20px;
+    text-decoration: none;
+    border-bottom: 3px solid red;
+}
+
+
+#footer-height{
+    min-height: 400px;
+   
+
+}
+.image-flex{
+    width: 350px;
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#group-image{
+    width: 80px;
+    height: 60px;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
